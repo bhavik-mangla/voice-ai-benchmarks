@@ -1,0 +1,11 @@
+{
+  "id": "humyn-bridge-asr",
+  "name": "BRIDGE ASR",
+  "organization": "Humyn Labs",
+  "description": "Compares commercial speech recognition APIs on conversational speech in Indic languages, Latin American Spanish, Brazilian Portuguese, and Vietnamese, including code-switching.",
+  "categories": ["stt"],
+  "benchmarkType": "leaderboard",
+  "evaluationMethod": "automatic",
+  "openness": "partially-open",
+  "websiteUrl": "https://humynlabs.ai/bridge/ASR/2.0"
+}
